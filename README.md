@@ -33,10 +33,10 @@ Deliverable: A functional model with visualizations of results.
 ## 🧪 Sample Outputs
 
 ### 🎓 Training Results
-![Training Accuracy & Loss](training_results.png)
+![Training Accuracy & Loss](https://github.com/user-attachments/assets/40d3fb1e-4db4-4707-a208-fedd7244ffa7)
 
 ### 🖼️ Sample Predictions
-![Predicted vs True Labels](sample_predictions.png)
+![Predicted vs True Labels](https://github.com/user-attachments/assets/c5791885-dbba-438c-a67f-d9e23d94e73f)
 
 ---
 

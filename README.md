@@ -1,3 +1,15 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : YASEER SHAIK
+
+INTERN ID : CT06DM03
+
+DOMAIN : DATA SCEINCE
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
 # 🧠 Deep Learning Image Classification - Internship Task 2 (Codetech)
 
 This project implements a **Convolutional Neural Network (CNN)** using **TensorFlow** to classify images from the **Fashion MNIST dataset**. It was developed as part of my internship with **Codetech**.
